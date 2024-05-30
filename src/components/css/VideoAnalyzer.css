@@ -1,0 +1,27 @@
+.full-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+  
+  }
+  
+  .video-form {
+    margin-bottom: 20px;
+  }
+  
+  .video-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .video-card {
+    width: 80%;
+  }
+  
+  .video-player {
+    width: 100%;
+  }
+  

@@ -1,0 +1,27 @@
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: bottom; /* Set position to absolute */
+    bottom: 0; /* Align to the bottom */
+    width: 100%; /* Take full width of the container */
+  }
+  
+  .footer .container {
+    position: relative; /* Set container position to relative */
+  }
+  
+  .footer-divider {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  
+  .social-icons {
+    text-align: center;
+  }
+  
+  .social-icons a {
+    margin-right: 10px;
+    color: white;
+  }
+  

@@ -1,0 +1,29 @@
+.user-details-container {
+    margin: 50px auto;
+    max-width: 600px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-details-heading {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .user-details {
+    font-size: 18px;
+  }
+  
+  .user-details p {
+    margin-bottom: 15px;
+  }
+  
+  .user-details p strong {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  

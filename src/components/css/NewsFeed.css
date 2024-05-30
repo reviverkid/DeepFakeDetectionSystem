@@ -1,0 +1,40 @@
+.news-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .news-image {
+    width: 150px; /* Adjust as needed */
+    height: 100px; /* Adjust as needed */
+    margin-right: 20px;
+  }
+  
+  .news-details {
+    flex: 1;
+  }
+  
+  .news-content {
+    margin-bottom: 10px;
+  }
+  
+  .news-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .news-author {
+    font-style: italic;
+    margin-right: 10px;
+  }
+  
+  .news-date {
+    margin-right: 10px;
+  }
+  
+  .read-more {
+    text-decoration: none;
+    color: blue;
+  }
+  

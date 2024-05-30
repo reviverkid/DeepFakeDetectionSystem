@@ -1,0 +1,18 @@
+.news-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .news-image {
+    width: 150px; /* Adjust as needed */
+    height: 100px; /* Adjust as needed */
+    margin-right: 20px;
+  }
+  
+  .news-details {
+    flex: 1;
+  }
+  
+  /* Add additional styling as needed */
+  

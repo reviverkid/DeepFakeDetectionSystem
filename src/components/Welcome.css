@@ -1,0 +1,36 @@
+/* Welcome.css */
+
+.welcome-container {
+    text-align: center;
+    margin: 50px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  p {
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  .carousel-item img {
+    max-width: 100%; /* Set the maximum width to the container width */
+    max-height: 300px; /* Set the maximum height as needed */
+    display: block; /* Ensures images are centered within the container */
+    margin: auto; /* Centers the image horizontally */
+  }
+  
