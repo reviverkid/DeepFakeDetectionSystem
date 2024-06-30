@@ -2,7 +2,7 @@
 
 Welcome to the Deepfake Detection System project! This project aims to detect deepfake videos using advanced machine learning techniques. The model leverages pre-trained CNNs for feature extraction and LSTM networks for temporal modeling, achieving high accuracy in distinguishing real and fake videos.
 
-![Deepfake Detection System Screenshot](https://github.com/reviverkid/DeepFakeDetectionSystem/blob/main/screenshots/screenshot1.png)
+![Deepfake Detection System Screenshot](https://github.com/reviverkid/DeepFakeDetectionSystem/blob/master/Screenshot%202023-12-18%20210811.png)
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ Deepfakes are synthetic media where a person in an existing image or video is re
 - **Temporal Modeling:** Uses LSTM networks to analyze temporal aspects of videos.
 - **User-friendly Interface:** Easy-to-use interface for uploading and analyzing videos.
 
-![User Interface Screenshot](https://github.com/reviverkid/DeepFakeDetectionSystem/blob/main/screenshots/screenshot2.png)
+![User Interface Screenshot](https://github.com/reviverkid/DeepFakeDetectionSystem/blob/master/Screenshot%202023-12-18%20210811.png)
 
 ## Installation 🛠️
 
